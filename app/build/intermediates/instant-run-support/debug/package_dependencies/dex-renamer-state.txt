@@ -1,0 +1,4 @@
+#Thu Apr 06 23:29:09 KST 2017
+base.0=C\:\\Users\\CS3-33\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_bb39f12ad94aa2d2f86fe200144d136b3db74059
+renamed.0=classes.dex
+file.0=C\:\\Users\\CS3-33\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_bb39f12ad94aa2d2f86fe200144d136b3db74059\\classes.dex

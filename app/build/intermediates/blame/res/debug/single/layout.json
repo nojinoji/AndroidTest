@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\CS3-33\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\CS3-33\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CS3-33\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\join.xml",
+        "source": "C:\\Users\\CS3-33\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\layout\\join.xml"
+    }
+]
